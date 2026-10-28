@@ -1,4 +1,4 @@
-# Studium
+# Masterarbeit Controlling-Prozesse weiterentwickeln mit Reifegradmodellen
 Öffentliche Material für mein Studium MBA Controlling
 
 * [Interview Anmeldung (Microsoft Booking Seite)](https://bookings.cloud.microsoft/bookwithme/user/528b40b5370e49ad94b4802df6d1d5da@hochschule-burgenland.at/meetingtype/Ij1trIbTUk6bwg10eU0Acg2?anonymous&ismsaljsauthenabled&ep=mlink)  \
